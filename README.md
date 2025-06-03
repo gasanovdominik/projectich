@@ -151,4 +151,4 @@ POST /api/reviews/
 
 ## 📦 Автор
 
-Hasanov Dominik
+Hasanov
