@@ -41,7 +41,6 @@
 - 🐬 MySQL 8
 - 🐳 Docker / Docker Compose
 - 🌍 Swagger (drf-spectacular)
-- ☁️ (Готово к развертыванию на AWS EC2)
 
 ---
 
@@ -70,7 +69,7 @@ docker-compose up --build
 
 ### 4. Открой в браузере:
 - Django сайт: [http://localhost:8000](http://localhost:8000)
-- Swagger документация: [http://localhost:8000/api/schema/swagger-ui/](http://localhost:8000/api/schema/swagger-ui/) (если включено)
+- Swagger документация: [http://localhost:8000/api/schema/swagger-ui/](http://localhost:8000/api/schema/swagger-ui/)
 
 ---
 
@@ -140,12 +139,6 @@ POST /api/reviews/
    - поиск
    - бронирование
    - отзыв
-
----
-
-## ✅ Статус проекта
-
-✅ Полностью реализован и готов к защите
 
 ---
 
